@@ -4,6 +4,8 @@
 
 Nombre del Equipo: Equipo 3
 
+Enlace a proyecto original:[mgea/storytelling](https://github.com/mgea/storytelling) 
+
 Proyecto (código): 
 
 Tipo/Género:  
