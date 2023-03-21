@@ -4,9 +4,7 @@
 
 Nombre del Equipo: Equipo 3
 
-Proyecto (código):
-
-Enlace al proyecto original: [mgea/storytelling](https://github.com/mgea/storytelling)
+Proyecto (código): 
 
 Tipo/Género:  
 - [x] FictionCiberpunk  
@@ -15,7 +13,7 @@ Tipo/Género:
 
 
 ## Resumen
-
+[wikipedia](https://www.wikipedia.org/)
 
 ### Personaje
 
