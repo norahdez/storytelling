@@ -1,6 +1,6 @@
 
 
-# Proyecto Storytelling (template): New Youth
+# Proyecto Storytelling: New Youth
 
 Nombre del Equipo: Equipo 3
 
@@ -23,7 +23,7 @@ Dorothea y su gato Sacapuntas viven en un mundo cibernético y superpoblado dond
 
 ### Dorothea, la abuela justiciera.
 
-![]([https://github.com/norahdez/storytelling/blob/master/Dorothea.png]))
+![]([https://github.com/norahdez/storytelling/blob/master/Dorothea.png])
 
 
 Nombre: 
