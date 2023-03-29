@@ -31,6 +31,11 @@ Dorothea y su gato Sacapuntas viven en un mundo cibernético y superpoblado dond
 
 ![Eladio Musgo](https://github.com/norahdez/storytelling/blob/master/eladio%20musho.jpg)
 
+
+## ✦ PRODUCTOS INTERACTIVOS ✦
+- • [¿Qué personaje de "New Youth" eres?](https://dorothea.h5p.com/content/1291915275078754197)
+- • [Juego de memoria "New Youth"](https://preguntasdorothea.h5p.com/content/1291915279213631167)
+
 Autores:  
 <!---
 Incluir lista de personas del grupo 
