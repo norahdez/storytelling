@@ -30,8 +30,9 @@ Dorothea y su gato Sacapuntas viven en un mundo cibernético y superpoblado dond
 
 ![Eladio Musgo](https://github.com/norahdez/storytelling/blob/master/eladio%20musho.jpg)
 
-## ✶ CONTEXTO ✶
-Dorothea es una abuela que vive en el año 2080, una mujer con carácter, valiente y peleona que vive con la compañía de su gatito Sacapuntas. Tiene una visión reivindicativa y una mente brillante que se compagina a la perfección con su corazón noble.
+## ✶ CONTEXTO Y CONFLICTO ✶
+Dorothea es una abuela que vive en el año 2080, una mujer con carácter, valiente y peleona que vive con la compañía de su gatito Sacapuntas. Tiene una visión reivindicativa y una mente brillante que se compagina a la perfección con su corazón noble. Dorothea cuenta con la compañía de un gatito robótico con importantes habilidades tecnológicas.
+En este mundo distópico, superpoblado y con una alta contaminación, la electricidad se ha convertido en la nueva moneda de cambio.
 
 En la sociedad en la que se desarrolla la trama existe una dictadura edadista presidida por Eladio Musgo. Este régimen discrimina por motivos de edad a sus ciudadanos, siendo los ancianos y las ancianas los habitantes más marginados y apartados de la vida social y política.
 
