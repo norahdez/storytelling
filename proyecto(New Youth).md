@@ -31,17 +31,7 @@ Dorothea y su gato Sacapuntas viven en un mundo cibernético y superpoblado dond
 
 ### Eladio Musgo, dictador de New Youth.
 
-
-
-- Personaje: (img personaje y enlace a interactivo) 
-
-
-- Banner/Teaser:  (enlace) 
-
-
-- Storytelling: (enlace) 
-
-
+![Eladio Musgo](https://github.com/norahdez/storytelling/blob/master/eladio%20musho.jpg)
 
 
 ### Conclusiones/Valoración del equipo
