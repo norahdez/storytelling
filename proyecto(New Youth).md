@@ -24,6 +24,7 @@ Dorothea y su gato Sacapuntas viven en un mundo cibernético y superpoblado dond
 ### Dorothea, la abuela justiciera.
 
 ![](https://github.com/mgea/storytelling/blob/master/img-nobody.png)
+![](https://github.com/norahdez/storytelling/dorothea.png)
 
 Nombre: 
 
