@@ -2,9 +2,9 @@
 
 # Proyecto Storytelling: New Youth
 
-Nombre del Equipo: Equipo 3
+• Nombre del Equipo: Equipo 3
 
-Enlace a proyecto original:[mgea/storytelling](https://github.com/mgea/storytelling) 
+• Enlace a proyecto original: [Storytelling](https://github.com/mgea/storytelling) 
 
 Tipo/Género:  
 - [x] FictionCiberpunk  
@@ -12,10 +12,9 @@ Tipo/Género:
 - [ ] Comic
 
 
-## ✶ RESUMEN ✶
+## ✶ RESUMEN / HISTORIA ✶
 
 Dorothea y su gato Sacapuntas viven en un mundo cibernético y superpoblado donde escasean los recursos. Su objetivo es luchar contra su hijo, Eladio Musgo, el presidente de la dictadura edadista de New Youth, Para devolver a los ancianos el papel en la sociedad que se merecen y dejar de ser un colectivo marginado.
-
 
 ## ✦ PERSONAJES ✦
 
@@ -31,6 +30,10 @@ Dorothea y su gato Sacapuntas viven en un mundo cibernético y superpoblado dond
 
 ![Eladio Musgo](https://github.com/norahdez/storytelling/blob/master/eladio%20musho.jpg)
 
+## ✶ CONTEXTO ✶
+Dorothea es una abuela que vive en el año 2080, una mujer con carácter, valiente y peleona que vive con la compañía de su gatito Sacapuntas. Tiene una visión reivindicativa y una mente brillante que se compagina a la perfección con su corazón noble.
+
+En la sociedad en la que se desarrolla la trama existe
 
 ## ✦ PRODUCTOS INTERACTIVOS ✦
 - • [¿Qué personaje de "New Youth" eres?](https://dorothea.h5p.com/content/1291915275078754197)
