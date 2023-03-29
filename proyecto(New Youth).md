@@ -27,7 +27,10 @@ Dorothea y su gato Sacapuntas viven en un mundo cibernético y superpoblado dond
 
 ### Sacapuntas, el gato robótico.
 
-![Sacapuntas](https://github.com/norahdez/storytelling/blob/master/.jpg)
+![Sacapuntas](https://github.com/norahdez/storytelling/blob/master/gato%20ficha.jpg)
+
+### Eladio Musgo, dictador de New Youth.
+
 
 
 - Personaje: (img personaje y enlace a interactivo) 
