@@ -1,6 +1,6 @@
 
 
-# Proyecto Storytelling (template): Dorothea la abuela justiciera
+# Proyecto Storytelling (template): New Youth
 
 Nombre del Equipo: Equipo 3
 
@@ -14,10 +14,14 @@ Tipo/Género:
 - [ ] Comic
 
 
-## Resumen
-[wikipedia](https://www.wikipedia.org/)
+## ✶ RESUMEN ✶
 
-### Personaje
+Dorothea y su gato Sacapuntas viven en un mundo cibernético y superpoblado donde escasean los recursos. Su objetivo es luchar contra su hijo, Eladio Musgo, el presidente de la dictadura edadista de New Youth, Para devolver a los ancianos el papel en la sociedad que se merecen y dejar de ser un colectivo marginado.
+
+
+## ✦ PERSONAJES ✦
+
+### Dorothea, la abuela justiciera.
 
 ![](https://github.com/mgea/storytelling/blob/master/img-nobody.png)
 
