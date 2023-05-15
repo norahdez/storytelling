@@ -34,6 +34,8 @@ Enlace a la imagen utilizada: https://stock.adobe.com/es/images/robot-cat-mix-be
 
 ![Eladio Musgo](https://github.com/norahdez/storytelling/blob/master/eladio%20musho.jpg)
 
+Enlace a la imagen utilizada: https://www.freepik.es/fotos-premium/retrato-realista-hombre-ciberpunk-ciencia-ficcion-traje-cibernetico-hombre-futurista-alta-tecnologia_32470249.htm
+
 ## ✶ CONTEXTO Y CONFLICTO ✶
 Dorothea es una abuela que vive en el año 2080, una mujer con carácter, valiente y peleona que vive con la compañía de su gatito Sacapuntas. Tiene una visión reivindicativa y una mente brillante que se compagina a la perfección con su corazón noble. Dorothea cuenta con la compañía de un gatito robótico con importantes habilidades tecnológicas.
 En este mundo distópico, superpoblado y con una alta contaminación, la electricidad se ha convertido en la nueva moneda de cambio.
