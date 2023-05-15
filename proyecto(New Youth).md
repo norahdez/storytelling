@@ -22,6 +22,8 @@ Dorothea y su gato Sacapuntas viven en un mundo cibernético y superpoblado dond
 
 ![Dorothea](https://github.com/norahdez/storytelling/blob/master/dorothea%20ficha.jpg)
 
+Enlace a la imagen utilizada: https://www.reddit.com/r/midjourney/comments/w7moh6/robot_grandma/
+
 ### Sacapuntas, el gato robótico.
 
 ![Sacapuntas](https://github.com/norahdez/storytelling/blob/master/gato%20ficha.jpg)
