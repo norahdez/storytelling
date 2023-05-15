@@ -28,6 +28,8 @@ Enlace a la imagen utilizada: https://www.reddit.com/r/midjourney/comments/w7moh
 
 ![Sacapuntas](https://github.com/norahdez/storytelling/blob/master/gato%20ficha.jpg)
 
+Enlace a la imagen utilizada: https://stock.adobe.com/es/images/robot-cat-mix-between-cat-and-machine/555938384
+
 ### Eladio Musgo, dictador de New Youth.
 
 ![Eladio Musgo](https://github.com/norahdez/storytelling/blob/master/eladio%20musho.jpg)
